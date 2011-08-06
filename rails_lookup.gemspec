@@ -149,7 +149,7 @@ I hope this helped you and saved a lot of time and frustration. Follow me on twi
 }
   s.email = %q{@nimrodpriell}
   s.extra_rdoc_files = [%q{README}, %q{lib/active_record/lookup.rb}]
-  s.files = [%q{README}, %q{Rakefile}, %q{lib/active_record/lookup.rb}, %q{Manifest}, %q{rails_lookup.gemspec}]
+  s.files = [%q{README}, %q{Rakefile}, %q{lib/active_record/lookup.rb}, %q{rails_lookup.gemspec}]
   s.homepage = %q{http://github.com/Nimster/RailsLookup/}
   s.rdoc_options = [%q{--line-numbers}, %q{--inline-source}, %q{--title}, %q{Rails_lookup}, %q{--main}, %q{README}]
   s.require_paths = [%q{lib}]
